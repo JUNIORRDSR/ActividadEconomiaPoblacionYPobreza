@@ -1,0 +1,49 @@
+
+    # Instrucciones para crear el Tablero de Power BI - ANTIOQUIA
+    
+    ## Archivos generados
+    
+    Se han generado 26 archivos en la carpeta 'datos', incluyendo:
+    - Archivos CSV con datos filtrados por departamento para cada indicador
+    - Visualizaciones de ejemplo en formato PNG
+    - Un archivo de resumen en formato JSON
+    
+    ## Pasos para crear el Tablero
+    
+    1. Abrir Power BI Desktop
+    2. Importar los archivos CSV desde la carpeta 'datos'
+    3. Crear relaciones entre tablas según sea necesario
+    4. Crear visualizaciones para cada uno de los indicadores
+    5. Organizar el tablero en 5 páginas según se indica en las instrucciones
+    
+    ## Indicadores a incluir
+    
+    - Incidencia de Pobreza Multidimensional
+- Incidencia de la Pobreza Monetaria
+- Incidencia de la Pobreza Monetaria Extrema
+- Personas en situación de Pobreza Monetaria
+- Personas en situación de Pobreza Monetaria Extrema
+- Coeficiente de Gini
+- Promedio del Ingreso per cápita de la unidad de gasto de la población
+- Líneas de Pobreza Monetaria
+- Líneas de Pobreza Monetaria Extrema
+- Brecha de la Pobreza Monetaria
+- Brecha de la Pobreza Monetaria Extrema
+- Severidad de la Pobreza Monetaria
+- Severidad de la Pobreza Monetaria Extrema
+- Incidencia de la Pobreza Monetaria según sexo de la persona
+- Incidencia de la Pobreza Monetaria Extrema según sexo de la persona
+    
+    ## Sugerencias de visualización
+    
+    - Usar gráficos de líneas para tendencias temporales
+    - Usar tarjetas para mostrar valores actuales
+    - Usar gráficos de barras para comparaciones
+    - Incluir filtros por año y otras variables relevantes
+    
+    ## Notas importantes
+    
+    - Asegurarse de incluir todos los indicadores solicitados
+    - Mantener una estética consistente en todo el tablero
+    - Incluir títulos descriptivos en todas las visualizaciones
+    

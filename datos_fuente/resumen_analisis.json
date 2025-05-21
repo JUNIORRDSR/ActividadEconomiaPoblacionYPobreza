@@ -1,0 +1,107 @@
+{
+    "departamento": "ANTIOQUIA",
+    "fecha_analisis": "2025-05-20",
+    "archivos_procesados": [
+        "anex-DCD-Proypoblacion-PerteneniaEtnicoRacialmun.xlsx",
+        "anex-PM-Departamental-2023.xlsx",
+        "anex-PMultidimensional-Departamental-2024.xlsx"
+    ],
+    "archivos_generados": [
+        "AP Act.Met._ANTIOQUIA.csv",
+        "APE Act.Met._ANTIOQUIA.csv",
+        "BP Act.Met._ANTIOQUIA.csv",
+        "BPE Act.Met._ANTIOQUIA.csv",
+        "Gini_ANTIOQUIA.csv",
+        "IC_IP Act.Met._ANTIOQUIA.csv",
+        "IC_IPE Act.Met._ANTIOQUIA.csv",
+        "IC_IPM_ANTIOQUIA.csv",
+        "IC_IPM_Sexo Jefe _ANTIOQUIA.csv",
+        "IC_IPM_Sexo_ANTIOQUIA.csv",
+        "Incidencia_Ajustada_IPM_ANTIOQUIA.csv",
+        "Intensidad_IPM_ANTIOQUIA.csv",
+        "IP Act.Met._ANTIOQUIA.csv",
+        "IPE Act.Met._ANTIOQUIA.csv",
+        "IPE_Sexo Act.Met._ANTIOQUIA.csv",
+        "IPM_Departamentos_ANTIOQUIA.csv",
+        "IPM_Sexo Jefe_ANTIOQUIA.csv",
+        "IPM_Sexo_ANTIOQUIA.csv",
+        "IPM_Variables_Departamento _ANTIOQUIA.csv",
+        "IPUG_ANTIOQUIA.csv",
+        "IP_Sexo Act.Met._ANTIOQUIA.csv",
+        "LP Act.Met._ANTIOQUIA.csv",
+        "LPE Act.Met._ANTIOQUIA.csv",
+        "poblacion_muestra.csv",
+        "SP Act.Met._ANTIOQUIA.csv",
+        "SPE Act.Met._ANTIOQUIA.csv"
+    ],
+    "indicadores": [
+        "Incidencia de Pobreza Multidimensional",
+        "Incidencia de la Pobreza Monetaria",
+        "Incidencia de la Pobreza Monetaria Extrema",
+        "Personas en situación de Pobreza Monetaria",
+        "Personas en situación de Pobreza Monetaria Extrema",
+        "Coeficiente de Gini",
+        "Promedio del Ingreso per cápita de la unidad de gasto de la población",
+        "Líneas de Pobreza Monetaria",
+        "Líneas de Pobreza Monetaria Extrema",
+        "Brecha de la Pobreza Monetaria",
+        "Brecha de la Pobreza Monetaria Extrema",
+        "Severidad de la Pobreza Monetaria",
+        "Severidad de la Pobreza Monetaria Extrema",
+        "Incidencia de la Pobreza Monetaria según sexo de la persona",
+        "Incidencia de la Pobreza Monetaria Extrema según sexo de la persona"
+    ],
+    "mapeo_indicadores_hojas": {
+        "Incidencia de Pobreza Multidimensional": [
+            "IPM_Departamentos"
+        ],
+        "Incidencia de la Pobreza Monetaria": [
+            "IP Act.Met."
+        ],
+        "Incidencia de la Pobreza Monetaria Extrema": [
+            "IPE Act.Met."
+        ],
+        "Personas en situación de Pobreza Monetaria": [
+            "AP Act.Met."
+        ],
+        "Personas en situación de Pobreza Monetaria Extrema": [
+            "APE Act.Met."
+        ],
+        "Coeficiente de Gini": [
+            "Gini"
+        ],
+        "Promedio del Ingreso per cápita de la unidad de gasto de la población": [
+            "IPUG"
+        ],
+        "Líneas de Pobreza Monetaria": [
+            "LP Act.Met."
+        ],
+        "Líneas de Pobreza Monetaria Extrema": [
+            "LPE Act.Met."
+        ],
+        "Brecha de la Pobreza Monetaria": [
+            "BP Act.Met."
+        ],
+        "Brecha de la Pobreza Monetaria Extrema": [
+            "BPE Act.Met."
+        ],
+        "Severidad de la Pobreza Monetaria": [
+            "SP Act.Met."
+        ],
+        "Severidad de la Pobreza Monetaria Extrema": [
+            "SPE Act.Met."
+        ],
+        "Incidencia de la Pobreza Monetaria según sexo de la persona": [
+            "IP_Sexo Act.Met."
+        ],
+        "Incidencia de la Pobreza Monetaria Extrema según sexo de la persona": [
+            "IPE_Sexo Act.Met."
+        ]
+    },
+    "recomendaciones": [
+        "Importar todos los archivos CSV de la carpeta datos",
+        "Crear relaciones entre tablas usando la columna de departamento",
+        "Crear visualizaciones para cada indicador por año",
+        "Organizar el tablero en 5 páginas según las instrucciones"
+    ]
+}
