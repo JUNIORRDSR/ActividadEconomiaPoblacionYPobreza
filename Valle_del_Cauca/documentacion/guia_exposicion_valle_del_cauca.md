@@ -18,7 +18,7 @@
 
 #### 3.1 Indicadores de pobreza multidimensional
 
-![Tendencia IPM Comparativa](visualizaciones/tendencia_ipm_comparativa.png)
+![Tendencia IPM Comparativa](../visualizaciones/tendencia_ipm_comparativa.png)
 
 El gráfico anterior muestra la evolución del Índice de Pobreza Multidimensional (IPM) para el Valle del Cauca en comparación con el promedio nacional. Podemos observar:
 
@@ -26,7 +26,7 @@ El gráfico anterior muestra la evolución del Índice de Pobreza Multidimension
 - Se observa un incremento significativo en 2020, probablemente asociado a la pandemia de COVID-19.
 - La tendencia general es descendente, indicando una reducción gradual de la pobreza multidimensional.
 
-![Mapa de Calor de Privaciones](visualizaciones/mapa_calor_privaciones.png)
+![Mapa de Calor de Privaciones](../visualizaciones/mapa_calor_privaciones.png)
 
 El mapa de calor muestra las diferentes dimensiones de la pobreza multidimensional y su intensidad en el Valle del Cauca:
 
@@ -36,7 +36,7 @@ El mapa de calor muestra las diferentes dimensiones de la pobreza multidimension
 
 #### 3.2 Análisis por áreas y grupos específicos
 
-![Comparativa por Área Geográfica](visualizaciones/comparativa_area_geografica.png)
+![Comparativa por Área Geográfica](../visualizaciones/comparativa_area_geografica.png)
 
 La gráfica muestra diferencias significativas entre áreas urbanas y rurales:
 
@@ -44,7 +44,7 @@ La gráfica muestra diferencias significativas entre áreas urbanas y rurales:
 - La brecha se ha reducido ligeramente en los últimos años pero sigue siendo importante.
 - Las políticas deben enfocarse especialmente en reducir la pobreza rural.
 
-![Composición Étnica](visualizaciones/composicion_etnica.png)
+![Composición Étnica](../visualizaciones/composicion_etnica.png)
 
 La distribución de la población por grupos étnicos en el Valle del Cauca es relevante para el análisis:
 
@@ -54,7 +54,7 @@ La distribución de la población por grupos étnicos en el Valle del Cauca es r
 
 #### 3.3 Proyecciones de población
 
-![Proyección de Población](proyeccion_poblacion_valle.png)
+![Proyección de Población](../visualizaciones/proyeccion_poblacion_valle.png)
 
 Las proyecciones de población del Valle del Cauca muestran:
 
@@ -65,7 +65,7 @@ Las proyecciones de población del Valle del Cauca muestran:
 
 #### 3.4 Análisis comparativo regional
 
-![Comparativa con Departamentos Vecinos](visualizaciones/comparativa_departamentos_vecinos.png)
+![Comparativa con Departamentos Vecinos](../visualizaciones/comparativa_departamentos_vecinos.png)
 
 La comparación con departamentos vecinos muestra:
 
@@ -207,7 +207,7 @@ El procesamiento de los datos se realizó en varias etapas:
 
 La siguiente visualización muestra una comparación de indicadores clave de pobreza para el Valle del Cauca frente al promedio nacional:
 
-![Comparativa de Indicadores](comparativa_indicadores_valle.png)
+![Comparativa de Indicadores](../visualizaciones/comparativa_indicadores_valle.png)
 
 **Observaciones clave:**
 - El Valle del Cauca muestra indicadores más favorables que el promedio nacional en todos los tipos de pobreza.
@@ -218,7 +218,7 @@ La siguiente visualización muestra una comparación de indicadores clave de pob
 
 La siguiente gráfica muestra las proyecciones de población para el Valle del Cauca hasta 2025:
 
-![Proyección de Población](proyeccion_poblacion_valle.png)
+![Proyección de Población](../visualizaciones/proyeccion_poblacion_valle.png)
 
 **Observaciones clave:**
 - Se proyecta un crecimiento poblacional moderado pero sostenido.
